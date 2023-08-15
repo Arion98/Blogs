@@ -17,7 +17,7 @@ Localhost:8081/Usuarios
 Localhost:8081/Usuarios/:id
 
 3 - POST Cria um usuário no banco de dados.
-Localhost:8081/Usuarios/postagem
+Localhost:8081/Usuarios
 
 4 - PUT Atualiza uma usuário pelo ID.
 Localhost:8081/Usuarios/:id
@@ -34,7 +34,7 @@ Localhost:8081/Posts
 Localhost:8081/Posts/:id
 
 3 - POST Cria uma Postagem.
-Localhost:8081/Posts/postagens
+Localhost:8081/Posts
 
 4 - PUT Atualiza uma Postagem pelo ID.
 Localhost:8081/Posts/:id
