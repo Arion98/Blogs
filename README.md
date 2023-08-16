@@ -40,7 +40,7 @@ Localhost:8081/Posts
 4 - PUT Atualiza uma Postagem pelo ID.
 Localhost:8081/Posts/:id
 
-5 - ELETE Deleta uma Postagem pelo ID.
+5 - DELETE Deleta uma Postagem pelo ID.
 Localhost:8081/Posts/:id
 
 
