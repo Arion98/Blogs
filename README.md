@@ -11,18 +11,23 @@ Com uma estrutura sólida e intuitiva, a API permite que os desenvolvedores inte
 Usuários:
 
 1 - GET Retorna todas os usuários com paginação e ordenação decrecente.
+
 Localhost:8081/Usuarios
 
 2 - GET Consulta uma usuário pelo ID.
+
 Localhost:8081/Usuarios/:id
 
 3 - POST Cria um usuário no banco de dados.
+
 Localhost:8081/Usuarios
 
 4 - PUT Atualiza uma usuário pelo ID.
+
 Localhost:8081/Usuarios/:id
 
 5 - DELETE Deleta um usuário pelo ID.
+
 Localhost:8081/Usuarios/:id
 ________________________________________________________________________________________________________________________________________________________________________________________________________
 
