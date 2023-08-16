@@ -4,7 +4,7 @@ Bem-vindo à API de Gestão de Usuários e Posts, desenvolvida para facilitar a 
 Com uma estrutura sólida e intuitiva, a API permite que os desenvolvedores interajam com o banco de dados para criar perfis de usuários, autenticar logins, criar novos posts e atualizar informações existentes.
 
 
-                                                              Rotas de APIS
+                         Rotas de APIS
 
 
 
@@ -29,18 +29,23 @@ ________________________________________________________________________________
 Postagens:
 
 1 - GET Retorna todas Postagens com paginação e ordenação decrecente. 
+
 Localhost:8081/Posts
 
 2 - GET Consulta uma postagem pelo ID.
+
 Localhost:8081/Posts/:id
 
 3 - POST Cria uma Postagem.
+
 Localhost:8081/Posts
 
 4 - PUT Atualiza uma Postagem pelo ID.
+
 Localhost:8081/Posts/:id
 
 5 - DELETE Deleta uma Postagem pelo ID.
+
 Localhost:8081/Posts/:id
 
 
