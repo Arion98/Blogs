@@ -4,7 +4,7 @@ Bem-vindo à API de Gestão de Usuários e Posts, desenvolvida para facilitar a 
 Com uma estrutura sólida e intuitiva, a API permite que os desenvolvedores interajam com o banco de dados para criar perfis de usuários, autenticar logins, criar novos posts e atualizar informações existentes.
 
 
-                         Rotas de APIS
+                                                                                     Rotas de APIS
 
 
 
